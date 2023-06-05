@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/samia42/my-portfolio/static/css/main.1a55c0c7.css",
-    "main.js": "/samia42/my-portfolio/static/js/main.4ee82a14.js",
-    "static/js/787.128fc6e9.chunk.js": "/samia42/my-portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/helvetica-neu.ttf": "/samia42/my-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/samia42/my-portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/LaBelleAurore.woff2": "/samia42/my-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/samia42/my-portfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/samia_transperent_bg_logo.png": "/samia42/my-portfolio/static/media/samia_transperent_bg_logo.d6c9af9dfc35ff2376a0.png",
-    "static/media/CoolveticaRg-Regular.woff": "/samia42/my-portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/samia42/my-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/samia42/my-portfolio/index.html",
-    "main.1a55c0c7.css.map": "/samia42/my-portfolio/static/css/main.1a55c0c7.css.map",
-    "main.4ee82a14.js.map": "/samia42/my-portfolio/static/js/main.4ee82a14.js.map",
-    "787.128fc6e9.chunk.js.map": "/samia42/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/my_portfolio/static/css/main.51a37b68.css",
+    "main.js": "/my_portfolio/static/js/main.efba5bd6.js",
+    "static/js/787.128fc6e9.chunk.js": "/my_portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/helvetica-neu.ttf": "/my_portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/my_portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/my_portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/my_portfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/samia_transperent_bg_logo.png": "/my_portfolio/static/media/samia_transperent_bg_logo.d6c9af9dfc35ff2376a0.png",
+    "static/media/CoolveticaRg-Regular.woff": "/my_portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/my_portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/my_portfolio/index.html",
+    "main.51a37b68.css.map": "/my_portfolio/static/css/main.51a37b68.css.map",
+    "main.efba5bd6.js.map": "/my_portfolio/static/js/main.efba5bd6.js.map",
+    "787.128fc6e9.chunk.js.map": "/my_portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a55c0c7.css",
-    "static/js/main.4ee82a14.js"
+    "static/css/main.51a37b68.css",
+    "static/js/main.efba5bd6.js"
   ]
 }
