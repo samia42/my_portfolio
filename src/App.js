@@ -7,7 +7,7 @@ function App() {
   return (
    <>
    <Routes>
-        <Route exact path='/my_portfolio' element={<Layout/>}>
+        <Route exact path='/my_portfolio/index.html' element={<Layout/>}>
           {/* <Route index element={<Home />} /> */}
 
       </Route>
