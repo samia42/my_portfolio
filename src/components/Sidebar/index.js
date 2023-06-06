@@ -2,7 +2,7 @@ import React from 'react'
 import "./index.scss"
 import LogoS from '../../assets/images/logo-s.png'
 import LogoSubtitle from "../../assets/images/samia_transperent_bg_logo.png"
-import { Link, NavLink } from "react-router-dom"
+import { Link, } from "react-router-dom"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faEnvelope, faHome, faUser } from "@fortawesome/free-solid-svg-icons"
 import { faGithub, faLinkedin, faSkype } from '@fortawesome/free-brands-svg-icons'
@@ -14,15 +14,15 @@ const Sidebar = () => (
       <img className="sub-logo" src={LogoSubtitle} alt="logo" />
     </Link>
     <nav>
-      <NavLink exact="true" activeclassname="active" to="/">
+      <Link exact="true" activeclassname="active" to="/">
         <FontAwesomeIcon icon={faHome} color="#4d4d4e"/>
-      </NavLink>
-      <NavLink exact="true" activeclassname="active" className="about-link" to="/about">
+      </Link>
+      <Link exact="true" activeclassname="active" className="about-link" to="/about">
         <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
-      </NavLink>
-      <NavLink exact="true" activeclassname="active" className="contact-link" to="/contact">
+      </Link>
+      <Link exact="true" activeclassname="active" className="contact-link" to="/contact">
         <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
-      </NavLink>
+      </Link>
     </nav>
     <ul>
       <li>
